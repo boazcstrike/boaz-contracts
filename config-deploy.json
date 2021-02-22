@@ -1,0 +1,6 @@
+{
+    "infuraApiKey": "dfc84a2c0906448db06759e7658f7492",
+    "networkId": "wss://mainnet.infura.io/ws/v3/2bef18467a70497c982406f769ef7a89",
+    "gasLimit": "21000",
+    "gasPrice": "200"
+}
